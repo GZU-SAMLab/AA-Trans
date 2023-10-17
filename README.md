@@ -38,4 +38,4 @@ Download Link: https://paperswithcode.com/dataset/nabirds
 The IP102 datset contains more than 75,000 images belongs to 102 categories.<br>
 Download Link: https://www.aliyundrive.com/s/c5G9scSGyak
 ## Experiments Result
-
+![table1](table1.png)![table2](table2.png)![table3](table3.png)![table4](table4.png)
