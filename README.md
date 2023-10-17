@@ -1,5 +1,10 @@
 # AA-trans: Core attention aggregating transformer with informationentropy selector for fine-grained visual classification
 >The task of fine-grained visual classification (FGVC) is to distinguish targets from subordinate classifica-tions. Since fine-grained images have the inherent characteristic of large inter-class variances and >smallintra-class variances, it is considered an extremely difficult task. To resolve this problem, we redesigned an attention aggregating transformer (AA-Trans) to better capture minor differences among images by >improving the ViT structure.Extensive experiments showthat our proposed model structure can achieve a new state-of-the-art performance on several mainstreamdatasets.
+## Contributions
+>1. We propose a reasonable transformer model for FGVC that candynamically detect distinguished regions and effectively exploitthe global and local information of images.
+>2. We present a core attention aggregator, which well mitigatesthe common information loss problem existing in the trans-former layer.
+>3. We design an efficient key token auto-selector based on infor-mation entropy, which can efficiently decide to select those to-kens that contain critical information without introducing addi-tional parameters.
+>4. We validate the effectiveness of our method on four fine-grained visual classification benchmark datasets. The results ofthe experiments illustrate that our proposed method achieves anew state-of-the-art performance.
 ## Environment Requirements
 ```
 cxxfilt>=0.2.0
