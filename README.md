@@ -7,6 +7,8 @@
 >4. We validate the effectiveness of our method on four fine-grained visual classification benchmark datasets. The results ofthe experiments illustrate that our proposed method achieves anew state-of-the-art performance.
 ## Model
 ![model](model.png)
+## Pretraines_weights
+download Link: https://pan.baidu.com/s/1yHWdEun9H9Uim9zzZDITQg?pwd=knjy 
 ## Environment Requirements
 ```
 cxxfilt>=0.2.0
