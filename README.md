@@ -35,7 +35,7 @@ Download Link: http://vision.stanford.edu/aditya86/ImageNetDogs/
 Try out a dataset for fine-grained recognition, featuring 400 species of North America’s birds. <br>
 Download Link: https://paperswithcode.com/dataset/nabirds
 ### IP102 Datset
-The IP102 datset contains more than 75,000 images belongs to 102 categories.
+The IP102 datset contains more than 75,000 images belongs to 102 categories.<br>
 Download Link: https://www.aliyundrive.com/s/c5G9scSGyak
 ## Experiments Result
 
